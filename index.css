@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  margin-right: 60px;
+}
